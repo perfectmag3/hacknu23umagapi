@@ -1,5 +1,5 @@
 # hacknu23umagapi
-Made by Psycho Coders for the UMAG on behalf of the HackNU '23
+Made by Psycho Coders for the UMAG / ZAPIS.KZ on behalf of the HackNU '23
 
 Telegram: @literallsadness, @myakkyyy
 
